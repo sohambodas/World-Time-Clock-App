@@ -2,10 +2,9 @@
 
 A Flutter application.
 
-![picture](Screenshot/ScreenRecord.gif)
-![picture](Screenshot/Screenshot_1.jpg)
-![picture](Screenshot/Screenshot_2.jpg)
-![picture](Screenshot/Screenshot_3.jpg)
+![picture](screenshots/1.jpg)
+![picture](screenshots/2.jpg)
+![picture](screenshots/3.jpg)
 
 ## Getting Started
 
